@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
 You can set your image from the following variable:
 
 <pre><code data-trim class="yaml">
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/profile.jpg"
 </code></pre>
 
 All set!
