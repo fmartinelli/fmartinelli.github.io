@@ -63,7 +63,6 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 # Blog #
 ########
-
 enable-gesture-navigation: True
 post-preview-words: 96
 paginate: 5
@@ -85,18 +84,28 @@ syntax-highlight: True
 ############
 # Timeline #
 ############
-
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/ascentio.png"
+    date: "Apr 2013 - Today"
+    description: "Python and C++ Developer @ <a href=\"https://www.ascentio.com.ar/en/home/\" target=\"_blank\">Ascentio Technologies SA. </a>"
+  - image: "/img/timeline/vates.png"
+    date: "Oct 2014 - Apr 2015"
+    description: "I have worked for <a href=\"http://www.arris.com/\" target=\"_blank\">Arris</a> as a member of WHS Core Team (Contractor from <a href=\"http://www.vates.com/\" target=\"_blank\">Vates SA</a>)."
+  - image: "/img/timeline/freelancer.png"
+    date: "Nov 2014 - Today"
+    description: "I have been working as a freelancer in some startups and small projects."
+  - image: "/img/timeline/taller.png"
+    date: "Jun 2013 - May 2014"
+    description: "C++ Software Engineer @ <a href=\"http://www.tallertechnologies.com\" target=\"_blank\">Taller Technologies</a>. I was member of Special Projects Division (SPD)."
+  - image: "/img/timeline/fudepan.png"
+    date: "Feb 2012 - Dec 2105"
+    description: "I did my <a href=\"https://bitbucket.org/fudepan/r-emo\" target=\"_blank\">thesis</a> in Bioinformatics and I was a C++ collaborator on <a href=\"https://bitbucket.org/account/user/fudepan/projects/PROJ\" target=\"_blank\">FuDePAN</a>."
+  - image: "/img/timeline/unrc.png"
+    date: "Feb 2009 - Mar 2013"
+    description: "Bachelor studies @ <a href=\"https://www.unrc.edu.ar/\" target=\"_blank\">Universidad Nacional de Rio Cuarto</a> on Computer Science. Teaching Assistant (non tenured)."
 
 # First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/default.jpg"
 
 ###########
 # Contact #
@@ -107,28 +116,26 @@ email: "fgriberi@gmail.com"
 ################
 # Author Blurb #
 ################
-
 # The author blurb goes underneath blog posts.
 # This works best when your author blurb image has a transparent background, or matches your site background color.
-
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Franco Riberi ..."
 author_blurb_image: "/img/profile.png"
 
 ##################
 # Social Buttons #
 ##################
 social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/fgriberi/"
+  - title: "github"
+    url: "https://github.com/fgriberi"
+  - title: "google-plus"
+    url: "https://plus.google.com/u/0/109897726972789513152"
   - title: "facebook"
     url: "https://www.facebook.com/franco.riberi1"
   - title: "twitter"
     url: "https://twitter.com/fgriberi"
-  - title: "github"
-    url: "https://github.com/fgriberi"
-  - title: "bitcoin"
-    url: "https://www.linkedin.com/in/fgriberi/"
-  - title: "google-plus"
-    url: "https://plus.google.com/u/0/109897726972789513152"
   - title: "flickr"
     url: "https://www.flickr.com/photos/154947948@N08/"
 
