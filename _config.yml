@@ -85,8 +85,11 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
+  - image: "/img/timeline/toptive.png"
+    date: "August 2018 - Present"
+    description: "Technical Leader @ <a href=\"https://www.toptive.co\" target=\"_blank\">Toptive SA.</a>"
   - image: "/img/timeline/onapsis.png"
-    date: "Mar 2018 - Present"
+    date: "Mar 2018 - August 2018"
     description: "Remote Python Developer @ <a href=\"https://www.onapsis.com/\" target=\"_blank\">Onapsis SRL. </a>"
   - image: "/img/timeline/ascentio.png"
     date: "Apr 2015 - Feb 2018"
