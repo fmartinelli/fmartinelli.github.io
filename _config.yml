@@ -126,7 +126,7 @@ email: "fgriberi@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Franco Riberi ..."
-author_blurb_image: "/img/profile.png"
+author_blurb_image: "/img/profile.jpg"
 
 ##################
 # Social Buttons #
