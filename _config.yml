@@ -1,6 +1,6 @@
 # Site settings
 
-url: "https://fgriberi.github.io"
+url: "https://fmartinelli.github.io"
 baseurl: ""
 google-tracking-id: ""
 force-https: True
@@ -10,10 +10,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Franco Riberi"
-title: "{ Franco Riberi }"
-description: "Blog and website of Franco Riberi, blogging mainly for tech. Feel free to Share."
-keywords: "riberi, personal, jekyll, theme"
+author: "Fernan Martinelli"
+title: "{ Fernan Martinelli }"
+description: "Website of Fernan Martinelli. Feel free to Share."
+keywords: "martinelli, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -78,7 +78,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "fgriberi"
+disqus-shortname: "fmartinelli"
 syntax-highlight: True
 
 ############
@@ -117,7 +117,7 @@ timeline-img: "/img/timeline/default.jpg"
 # Contact #
 ###########
 
-email: "fgriberi@gmail.com"
+email: "fmartinelli89@gmail.com"
 
 ################
 # Author Blurb #
@@ -125,7 +125,7 @@ email: "fgriberi@gmail.com"
 # The author blurb goes underneath blog posts.
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Franco Riberi ..."
+author_blurb: "Fernan Martinelli ..."
 author_blurb_image: "/img/profile.jpg"
 
 ##################
@@ -133,21 +133,9 @@ author_blurb_image: "/img/profile.jpg"
 ##################
 social:
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/fgriberi/"
+    url: "https://www.linkedin.com/in/fernan-martinelli/"
   - title: "github"
-    url: "https://github.com/fgriberi"
-  - title: "angellist"
-    url: "https://angel.co/franco-gaspar-riberi"
-  - title: "google-plus"
-    url: "https://plus.google.com/u/0/109897726972789513152"
-  - title: "facebook"
-    url: "https://www.facebook.com/franco.riberi1"
-  - title: "twitter"
-    url: "https://twitter.com/fgriberi"
-  - title: "flickr"
-    url: "https://www.flickr.com/photos/154947948@N08/"
-  - title: "medium"
-    url: "https://medium.com/@francoriberi"
+    url: "https://github.com/fmartinelli"
 
 ############
 # 404 page #
